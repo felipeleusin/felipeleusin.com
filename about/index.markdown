@@ -27,3 +27,7 @@ About age 12 I started working with development,  web. Been having fun with it e
 I'm a soccer (Fluminense) fan and as of a few years ago a big american football fan (San Diego Chargers). I play in an amateur team of beach american football (Ipanema Tatuís). 
 
 I also like to travel and enjoy whatever my city as to offer, albeit being  a night person. 
+
+## Why english
+
+I'm a primarily Portuguese speaking person. Yet one of the reasons for creating this blog was to write about technology and as sad as I get, when discussing technology I actually think in english. I may end up writing something in portuguese from time to time, but will probably be the exception, not the norm.
