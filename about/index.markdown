@@ -18,9 +18,9 @@ I work at my own company [dojoapps](http://dojoapps.com.br) developing products 
 
 ## Why I do it
 
-I've been messing with computer since I can remember basically, I think my first one was a 386 something. Until today I remember how fast I felt when it upgraded to a 486dx2 and all the steps since.
+I've been messing with computers since I can remember basically, I think my first one was a 386 something. Until today I remember how fast I felt when it upgraded to a 486dx2 and all the steps since.
 
-About age 12 I started working with development,  web. Been having fun with it ever since.
+About age 12 I started coding, did a few websites and never stopped.
 
 ## What I do for fun
 
