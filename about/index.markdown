@@ -30,4 +30,4 @@ I also like to travel and enjoy whatever my city as to offer, albeit being  a ni
 
 ## Why english
 
-I'm a primarily Portuguese speaking person. Yet one of the reasons for creating this blog was to write about technology and as sad as I get, when discussing technology I actually think in english. I may end up writing something in portuguese from time to time, but will probably be the exception, not the norm.
+I'm a primarily Portuguese speaking person. Yet, one of the reasons for creating this blog was to write about technology and software development and, as sad as it may be, when it comes to those topics english is the standard. I may end up writing something in portuguese from time to time, but will be the exception not the norm.
