@@ -1,6 +1,6 @@
-# Haacked.com
+# felipeleusin.com
 
-This is my blog. There are many like it, but this one is mine.
+Shamelly forked [Phil Haack's blog](http://haacked.com), going to adapt it as I go.
 
 ## Testing
 
